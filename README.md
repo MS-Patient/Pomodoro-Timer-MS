@@ -4,7 +4,8 @@ Pomodoro Timer MS
 Hello
 I am a computer software engineer who worked as a freelancer but about 5 years ago I got MS and lost control of my life
 No insurance and income with a child
-With all the problems of the disease, I made this simple App
+With all the problems of the disease, 
+I made this simple App
 Please introduce this app to others and Donate to me
 Thanks
 
