@@ -1,4 +1,3 @@
-# Pomodoro-Timer-MS
 Pomodoro Timer MS
 
 
